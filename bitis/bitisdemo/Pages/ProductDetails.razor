@@ -1,0 +1,130 @@
+﻿@page "/productdetails/{id}"
+@page "/productdetails"
+@inherits ProductDetailsBase
+@if (Product == null)
+{
+    <div class="spinner"></div>
+}
+else
+{
+    <div class="grid wide">
+        <div class="row">
+            <div class="col l-1"></div>
+            <div class="col l-5">
+                <div class="product_details_avt">
+                    <img src="@Product.HinhSp" alt="" class="product_details_img">
+                </div>
+                <div class="product_details_description">
+                    <span class="product_details_description-text">
+                        @Product.ChiTietSP
+                    </span>
+                </div>
+                <div class="product_details_evaluate">
+                    <span class="product_details_evaluate-heading">
+                        Đánh giá sản phẩm
+                    </span>
+                    <div class="product_details_evaluate-wrap">
+                        <div class="product_details_evaluate-star">
+                            <div>
+                                <i class="far fa-star product_details_evaluate-star-icon "></i>
+                                <i class="far fa-star product_details_evaluate-star-icon "></i>
+                                <i class="far fa-star product_details_evaluate-star-icon "></i>
+                                <i class="far fa-star product_details_evaluate-star-icon "></i>
+                                <i class="far fa-star product_details_evaluate-star-icon "></i>
+                            </div>
+                            <span class="product_details_evaluate-star-text">(0 đánh giá)</span>
+                        </div>
+                        <button class="product_details_evaluate-btn"> Viết đánh giá</button>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col l-6">
+                <div class="product_details">
+                    <div class="product_details_wrap">
+                        <div class="product_details_heading">
+                            @Product.TenSp
+                        </div>
+                        <div class="product_details_code">
+                            Mã sản phẩm: @Product.MaSp
+                        </div>
+                        <div class="product_details_body">
+                            <div class="product_details_price">
+                                @Product.Gia ₫
+                            </div>
+                            <div class="product_details_vat">
+                                *Đã bao gồm VAT
+                            </div>
+                        </div>
+                        <div class="product_details_color">
+                            <span class="product_details_text">
+                                màu sắc
+                            </span>
+                            <button class="product_details_color_btn">
+                                <img src="https://product.hstatic.net/1000230642/product/deb008400xam27_4__765732c397cf4c248b88ea7ea65364f5_icon.jpg" alt="" class="product_details_color_btn-img">
+                                <span class="product_details_color_btn_text">Xám</span>
+                            </button>
+                        </div>
+                        <div class="product_details_size">
+                            <span class="product_details_text">
+                                kích thước
+                            </span>
+                            <button class="product_details_size_btn">
+
+                                <span class="product_details_size_btn_text">28</span>
+                            </button>
+                        </div>
+
+                        <div class="product_details_quantity">
+                            <span class="product_details_text">
+                                Còn hàng: <strong>@Product.SoLuong</strong> Sản phẩm
+                            </span>
+                            <a href="" class="product_details_quantity_instruct">+ hướng dẫn xem thêm size</a>
+                        </div>
+
+                        <div class="product_details_btn">
+                            <button class="product_details-btn-buying">Mua ngay</button>
+
+                            <button class="product_details-btn-like">
+                                <i class="fa fa-heart"></i>
+                                Thêm vào yêu thích
+                            </button>
+                        </div>
+
+                        <div class="product_details_advise">
+                            <span class="product_details_text">
+                                Tư vấn: 0966 158 666
+                            </span>
+                            <div class="product_details_pay-wrap">
+                                <div class="product_details_pay">
+                                    <img src="asset/img/zalopay.png" alt="" class="product_details_pay_img">
+                                </div>
+                                <div class="product_details_pay">
+                                    <img src="asset/img/visa.png" alt="" class="product_details_pay_img">
+                                </div>
+                                <div class="product_details_pay">
+                                    <img src="asset/img/mastercard.png" alt="" class="product_details_pay_img">
+                                </div>
+                                <div class="product_details_pay">
+                                    <img src="asset/img/cod.png" alt="" class="product_details_pay_img">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="card-footer text-center @CssClass">
+                            <a href="/" class="btn btn-primary">Back</a>
+                            <a href="@($"editproduct/{Product.IdSp}")" class="btn btn-primary">Edit</a>
+                            <a href="#" class="btn btn-danger">Delete</a>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+}
+<div>
+    <Footer />
+</div>
+

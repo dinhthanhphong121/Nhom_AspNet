@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Gr8byFzhYNZHbzx5lNrSlo0MckH1crkY5kRKxxOa/eRpRpWTbco8knGIfGQAq9PBajYstd9+xgTW4LlZkfj1Q==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\Nhom_AspNet\\bitis\\bitis.mode\\bitis.mode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DTPHONG\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

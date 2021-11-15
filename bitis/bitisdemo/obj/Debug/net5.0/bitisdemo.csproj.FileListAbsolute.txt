@@ -1,0 +1,374 @@
+D:\Code test\bitis\bitis\bitisdemo\bin\Debug\net5.0\appsettings.Development.json
+D:\Code test\bitis\bitis\bitisdemo\bin\Debug\net5.0\appsettings.json
+D:\Code test\bitis\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.StaticWebAssets.xml
+D:\Code test\bitis\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.exe
+D:\Code test\bitis\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.deps.json
+D:\Code test\bitis\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.runtimeconfig.json
+D:\Code test\bitis\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.runtimeconfig.dev.json
+D:\Code test\bitis\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.dll
+D:\Code test\bitis\bitis\bitisdemo\bin\Debug\net5.0\ref\bitisdemo.dll
+D:\Code test\bitis\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.pdb
+D:\Code test\bitis\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.Views.dll
+D:\Code test\bitis\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.Views.pdb
+D:\Code test\bitis\bitis\bitisdemo\bin\Debug\net5.0\bitis.mode.dll
+D:\Code test\bitis\bitis\bitisdemo\bin\Debug\net5.0\bitis.mode.pdb
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.csproj.AssemblyReference.cache
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.AssemblyInfoInputs.cache
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.AssemblyInfo.cs
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.csproj.CoreCompileInputs.cache
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.MvcApplicationPartsAssemblyInfo.cache
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.RazorComponent.input.cache
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\Pages\Home.razor.g.cs
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\Shared\Header.razor.g.cs
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\Shared\Silider.razor.g.cs
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.RazorComponent.output.cache
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\bitisdemo.dll
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.TagHelpers.input.cache
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.TagHelpers.output.cache
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.RazorCoreGenerate.cache
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\Razor\App.razor.g.cs
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\Razor\Pages\Home.razor.g.cs
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\Razor\Shared\Header.razor.g.cs
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\Razor\Shared\Silider.razor.g.cs
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.RazorAssemblyInfo.cache
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.RazorAssemblyInfo.cs
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\staticwebassets\bitisdemo.StaticWebAssets.Manifest.cache
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\staticwebassets\bitisdemo.StaticWebAssets.xml
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\scopedcss\bundle\bitisdemo.styles.css
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\scopedcss\projectbundle\bitisdemo.bundle.scp.css
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.RazorTargetAssemblyInfo.cache
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.RazorTargetAssemblyInfo.cs
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.Views.pdb
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.csproj.CopyComplete
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.dll
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\ref\bitisdemo.dll
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.pdb
+D:\Code test\bitis\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.genruntimeconfig.cache
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\appsettings.Development.json
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\appsettings.json
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\Bitis.Api.Views.dll
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\Bitis.Api.Views.pdb
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\Bitis.Api.deps.json
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\Bitis.Api.runtimeconfig.json
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\Bitis.Api.runtimeconfig.dev.json
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\Bitis.Api.exe
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.StaticWebAssets.xml
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.exe
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.deps.json
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.runtimeconfig.json
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.runtimeconfig.dev.json
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.dll
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\ref\bitisdemo.dll
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.pdb
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.Views.dll
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.Views.pdb
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\Bitis.Api.dll
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\bitis.mode.dll
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\Bitis.Api.pdb
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\bitis.mode.pdb
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.csproj.AssemblyReference.cache
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.AssemblyInfoInputs.cache
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.AssemblyInfo.cs
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.csproj.CoreCompileInputs.cache
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.MvcApplicationPartsAssemblyInfo.cs
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.MvcApplicationPartsAssemblyInfo.cache
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.RazorComponent.input.cache
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\Pages\Home.razor.g.cs
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\Shared\Header.razor.g.cs
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\Shared\Silider.razor.g.cs
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.RazorComponent.output.cache
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\bitisdemo.dll
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.TagHelpers.input.cache
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.TagHelpers.output.cache
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.RazorCoreGenerate.cache
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\Razor\App.razor.g.cs
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\Razor\Pages\Home.razor.g.cs
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\Razor\Shared\Header.razor.g.cs
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\Razor\Shared\Silider.razor.g.cs
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.RazorAssemblyInfo.cache
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.RazorAssemblyInfo.cs
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\staticwebassets\bitisdemo.StaticWebAssets.Manifest.cache
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\staticwebassets\bitisdemo.StaticWebAssets.xml
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\scopedcss\bundle\bitisdemo.styles.css
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\scopedcss\projectbundle\bitisdemo.bundle.scp.css
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.RazorTargetAssemblyInfo.cache
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.RazorTargetAssemblyInfo.cs
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.Views.pdb
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.csproj.CopyComplete
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.dll
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\ref\bitisdemo.dll
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.pdb
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.genruntimeconfig.cache
+D:\Code sua API\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.AspNetCore.Blazor.HttpClient.dll
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\Pages\ProductDetails.razor.g.cs
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\Razor\Pages\ProductDetails.razor.g.cs
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\Pages\DisplayProduct.razor.g.cs
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\Razor\Pages\DisplayProduct.razor.g.cs
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\Pages\EditProduct.razor.g.cs
+D:\Code sua API\bitis\bitisdemo\obj\Debug\net5.0\Razor\Pages\EditProduct.razor.g.cs
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\appsettings.Development.json
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\appsettings.json
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\Bitis.Api.Views.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\Bitis.Api.Views.pdb
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\Bitis.Api.deps.json
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\Bitis.Api.runtimeconfig.json
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\Bitis.Api.runtimeconfig.dev.json
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\Bitis.Api.exe
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.StaticWebAssets.xml
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.exe
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.deps.json
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.runtimeconfig.json
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.runtimeconfig.dev.json
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\ref\bitisdemo.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.pdb
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.Views.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.Views.pdb
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.AspNetCore.Blazor.HttpClient.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\Bitis.Api.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\bitis.mode.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\Bitis.Api.pdb
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\bin\Debug\net5.0\bitis.mode.pdb
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.csproj.AssemblyReference.cache
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.AssemblyInfoInputs.cache
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.AssemblyInfo.cs
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.csproj.CoreCompileInputs.cache
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.MvcApplicationPartsAssemblyInfo.cs
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.RazorComponent.input.cache
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\Pages\DisplayProduct.razor.g.cs
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\Pages\EditProduct.razor.g.cs
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\Pages\Home.razor.g.cs
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\Pages\ProductDetails.razor.g.cs
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\Shared\Header.razor.g.cs
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\Shared\Silider.razor.g.cs
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.RazorComponent.output.cache
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\bitisdemo.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.TagHelpers.input.cache
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.TagHelpers.output.cache
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.RazorCoreGenerate.cache
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\Razor\App.razor.g.cs
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\Razor\Pages\DisplayProduct.razor.g.cs
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\Razor\Pages\EditProduct.razor.g.cs
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\Razor\Pages\Home.razor.g.cs
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\Razor\Pages\ProductDetails.razor.g.cs
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\Razor\Shared\Header.razor.g.cs
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\Razor\Shared\Silider.razor.g.cs
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.RazorAssemblyInfo.cache
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.RazorAssemblyInfo.cs
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\staticwebassets\bitisdemo.StaticWebAssets.Manifest.cache
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\staticwebassets\bitisdemo.StaticWebAssets.xml
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\scopedcss\bundle\bitisdemo.styles.css
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\scopedcss\projectbundle\bitisdemo.bundle.scp.css
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.RazorTargetAssemblyInfo.cache
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.RazorTargetAssemblyInfo.cs
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.Views.pdb
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.csproj.CopyComplete
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\ref\bitisdemo.dll
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.pdb
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.genruntimeconfig.cache
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\appsettings.Development.json
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\appsettings.json
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\Bitis.Api.Views.dll
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\Bitis.Api.Views.pdb
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\Bitis.Api.deps.json
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\Bitis.Api.runtimeconfig.json
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\Bitis.Api.runtimeconfig.dev.json
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\Bitis.Api.exe
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.StaticWebAssets.xml
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.exe
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.deps.json
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.runtimeconfig.json
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.runtimeconfig.dev.json
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.dll
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\ref\bitisdemo.dll
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.pdb
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.Views.dll
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\bitisdemo.Views.pdb
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.AspNetCore.Blazor.HttpClient.dll
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\Bitis.Api.dll
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\bitis.mode.dll
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\Bitis.Api.pdb
+D:\Code test\bitis\bitisdemo\bin\Debug\net5.0\bitis.mode.pdb
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.csproj.AssemblyReference.cache
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.AssemblyInfoInputs.cache
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.AssemblyInfo.cs
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.csproj.CoreCompileInputs.cache
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.MvcApplicationPartsAssemblyInfo.cs
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.MvcApplicationPartsAssemblyInfo.cache
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.RazorComponent.input.cache
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\Pages\DisplayProduct.razor.g.cs
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\Pages\EditProduct.razor.g.cs
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\Pages\Home.razor.g.cs
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\Pages\ProductDetails.razor.g.cs
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\Shared\Header.razor.g.cs
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\Shared\Silider.razor.g.cs
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.RazorComponent.output.cache
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\bitisdemo.dll
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.TagHelpers.input.cache
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.TagHelpers.output.cache
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.RazorCoreGenerate.cache
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\Razor\App.razor.g.cs
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\Razor\Pages\DisplayProduct.razor.g.cs
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\Razor\Pages\EditProduct.razor.g.cs
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\Razor\Pages\Home.razor.g.cs
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\Razor\Pages\ProductDetails.razor.g.cs
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\Razor\Shared\Header.razor.g.cs
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\Razor\Shared\Silider.razor.g.cs
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.RazorAssemblyInfo.cache
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.RazorAssemblyInfo.cs
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\staticwebassets\bitisdemo.StaticWebAssets.Manifest.cache
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\staticwebassets\bitisdemo.StaticWebAssets.xml
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\scopedcss\bundle\bitisdemo.styles.css
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\scopedcss\projectbundle\bitisdemo.bundle.scp.css
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.RazorTargetAssemblyInfo.cache
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.RazorTargetAssemblyInfo.cs
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.Views.pdb
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.csproj.CopyComplete
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.dll
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\ref\bitisdemo.dll
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.pdb
+D:\Code test\bitis\bitisdemo\obj\Debug\net5.0\bitisdemo.genruntimeconfig.cache
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\Shared\Album.razor.g.cs
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\Razor\Shared\Album.razor.g.cs
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\RazorDeclaration\Shared\Footer.razor.g.cs
+D:\GitHub\Nhom_AspNet\bitis\bitisdemo\obj\Debug\net5.0\Razor\Shared\Footer.razor.g.cs

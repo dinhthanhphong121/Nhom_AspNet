@@ -1,0 +1,114 @@
+﻿@page "/editproduct/{id}"
+
+@inherits EditProductBase
+
+<EditForm Model="@Product">
+    
+    <div class="grid wide">
+        <div class="row">
+            <div class="col l-12">
+                <div class="edit-heading">
+                    <DataAnnotationsValidator />
+                    <h3 class="edit-heading-text">Edit Product</h3>
+                    <hr />
+                    <ValidationSummary />
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col l-2">
+                <div class="edit">
+                    <label for="maSp">
+                        Mã Sản Phẩm
+                    </label>
+
+                </div>
+            </div>
+            <div class="col l-7">
+                <div class="fomr">
+                    <InputText id="maSp" class="form-control edit-fomr" placeholder="Mã Sản Phẩm"
+                               @bind-Value="Product.MaSp" />
+
+                    <ValidationMessage For="@(() => Product.MaSp)" />
+
+
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col l-2">
+                <div class="edit">
+                    <label for="tenSp" class="">
+                        Tên Sản Phẩm
+                    </label>
+                </div>
+            </div>
+            <div class="col l-7">
+                <div class="fomr">
+                    <InputText id="tenSp" class="form-control edit-fomr" placeholder="Tên Sản Phẩm"
+                               @bind-Value="Product.TenSp" />
+
+                    <ValidationMessage For="@(() => Product.TenSp)" />
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col l-2">
+                <div class="edit">
+                    <label for="motaSp" class="">
+                        Mô tả
+                    </label>
+                </div>
+            </div>
+            <div class="col l-7">
+                <div class="fomr">
+                    <InputText id="motaSp" class="form-control edit-fomr" placeholder="Mô tả"
+                               @bind-Value="Product.MoTaSp" />
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col l-2">
+                <div class="edit">
+                    <label for="chitietSp" class="">
+                        Chi tiết
+                    </label>
+                </div>
+            </div>
+            <div class="col l-7">
+                <div class="fomr">
+
+                    <InputText id="chitietSp" class="form-control edit-fomr" placeholder="Chi tiết"
+                               @bind-Value="Product.ChiTietSP" />
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col l-2">
+                <div class="edit">
+                    <label for="danhmucSp" class="">
+                        Danh mục
+                    </label>
+                </div>
+            </div>
+            <div class="col l-7">
+                <div class="fomr">
+                    <InputSelect id="danhmucSp" @bind-Value="IdDanhMuc" class="form-control edit-fomr">
+                        @foreach (var categ in Categorys)
+                        {
+                            <option value="@categ.IdDanhMuc">@categ.TenDanhMuc</option>
+                        }
+                    </InputSelect>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+    
+
+</EditForm>

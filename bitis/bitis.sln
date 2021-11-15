@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bitis.mode", "bitis.mode\bitis.mode.csproj", "{4F20633D-29AC-4F04-A311-3DCABBFC39BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bitisdemo", "bitisdemo\bitisdemo.csproj", "{C1DF874B-0258-4BFB-98A1-3450A01C6C2C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bitis.Api", "Bitis.Api\Bitis.Api.csproj", "{7D33CE52-F1A2-4EA4-99F3-8C60CD699821}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F20633D-29AC-4F04-A311-3DCABBFC39BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F20633D-29AC-4F04-A311-3DCABBFC39BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F20633D-29AC-4F04-A311-3DCABBFC39BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F20633D-29AC-4F04-A311-3DCABBFC39BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1DF874B-0258-4BFB-98A1-3450A01C6C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1DF874B-0258-4BFB-98A1-3450A01C6C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1DF874B-0258-4BFB-98A1-3450A01C6C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1DF874B-0258-4BFB-98A1-3450A01C6C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D33CE52-F1A2-4EA4-99F3-8C60CD699821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D33CE52-F1A2-4EA4-99F3-8C60CD699821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D33CE52-F1A2-4EA4-99F3-8C60CD699821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D33CE52-F1A2-4EA4-99F3-8C60CD699821}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FBC373C-1EA0-470A-BB23-F495EA0F74BD}
+	EndGlobalSection
+EndGlobal
