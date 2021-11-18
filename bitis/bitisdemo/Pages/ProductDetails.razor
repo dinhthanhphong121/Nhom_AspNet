@@ -12,7 +12,7 @@ else
             <div class="col l-1"></div>
             <div class="col l-5">
                 <div class="product_details_avt">
-                    <img src="@Product.HinhSp" alt="" class="product_details_img">
+                    <img src="@Product.HinhSp" alt="" class="product_details_img" @onmousemove="@(e => Coordinates = $"X = {e.ClientX} Y = {e.ClientY}")">
                 </div>
                 <div class="product_details_description">
                     <span class="product_details_description-text">
@@ -43,7 +43,7 @@ else
                 <div class="product_details">
                     <div class="product_details_wrap">
                         <div class="product_details_heading">
-                            @Product.TenSp
+                            @Product.TenSp @Coordinates
                         </div>
                         <div class="product_details_code">
                             Mã sản phẩm: @Product.MaSp
@@ -112,9 +112,9 @@ else
                         </div>
 
                         <div class="card-footer text-center @CssClass">
-                            <a href="/" class="btn btn-primary">Back</a>
+                            
                             <a href="@($"editproduct/{Product.IdSp}")" class="btn btn-primary">Edit</a>
-                            <a href="#" class="btn btn-danger">Delete</a>
+                            
                         </div>
 
                     </div>
@@ -124,7 +124,7 @@ else
     </div>
 
 }
-<div>
-    <Footer />
-</div>
 
+<div>
+    <Footer/>
+</div>

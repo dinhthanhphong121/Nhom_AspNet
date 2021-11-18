@@ -83,6 +83,7 @@ using bitisdemo.Shared;
 #line hidden
 #nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/editproduct/{id}")]
+    [Microsoft.AspNetCore.Components.RouteAttribute("/editproduct")]
     public partial class EditProduct : EditProductBase
     {
         #pragma warning disable 1998

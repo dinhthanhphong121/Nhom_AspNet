@@ -16,6 +16,16 @@ namespace bitisdemo.Services
             this.httpClient = httpClient;
         }
 
+        public async Task<Product> AddProduct(Product product)
+        {
+            return await httpClient.PostJsonAsync<Product>("api/products", product);
+        }
+
+        public async Task DeleteProduct(int id)
+        {
+            await httpClient.DeleteAsync($"api/products/{id}");
+        }
+
         public async Task<Product> GetProduct(int id)
         {
             return await httpClient.GetJsonAsync<Product>($"api/products/{id}");
@@ -24,6 +34,11 @@ namespace bitisdemo.Services
         public async Task<IEnumerable<Product>> GetProducts()
         {
             return await httpClient.GetJsonAsync<Product[]>("api/products");
+        }
+
+        public async Task<Product> UpdateProduct(Product updatedProduct)
+        {
+            return await httpClient.PutJsonAsync<Product>("api/products", updatedProduct);
         }
 
     }

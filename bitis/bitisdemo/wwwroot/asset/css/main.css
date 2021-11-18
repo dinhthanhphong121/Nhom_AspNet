@@ -79,9 +79,8 @@
     width: 1px;
 }
 
-.navbar-with-seach {
+.navbar-with-seach{
     height: 88px;
-    margin-bottom: 16px;
 }
 
 .navbar-logo{
@@ -366,11 +365,7 @@
     justify-content: space-evenly;
 }
 .product-btn {
-    min-width: 60px;
-    color:#ffffff;
-}
-.product-btn:hover{
-    opacity:0.8;
+    min-width: unset;
 }
 
 .product:hover {
@@ -686,9 +681,6 @@
     padding: 8px 16px;
 }
 
-.footer_bottom_link:hover {
-    text-decoration:none;
-}
     .footer_bottom_link:first-child {
         padding-left: 0px;
     }
@@ -716,7 +708,6 @@
     font-weight: 100;
     line-height: 2rem;
 }
-
 
 /* san pham */
 .product_details_avt {
@@ -967,19 +958,21 @@
     color: #000;
     margin: 4px 0px;
 }
+
 .edit-heading {
     margin: 16px 0px;
-    
 }
+
 .edit-heading-text {
     font-size: 20px;
     color: #000;
     font-weight: 600;
 }
+
 .fomr {
-    
     margin: 4px 0px;
 }
+
 .edit-fomr {
     font-size: 14px;
     color: #000;

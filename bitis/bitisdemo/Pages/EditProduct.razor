@@ -1,9 +1,8 @@
 ﻿@page "/editproduct/{id}"
-
+@page "/editproduct"
 @inherits EditProductBase
 
-<EditForm Model="@Product">
-    
+<EditForm Model="@Product" OnValidSubmit="HandleValidSubmit">
     <div class="grid wide">
         <div class="row">
             <div class="col l-12">
@@ -50,6 +49,42 @@
                                @bind-Value="Product.TenSp" />
 
                     <ValidationMessage For="@(() => Product.TenSp)" />
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col l-2">
+                <div class="edit">
+                    <label for="gia" class="">
+                        Giá
+                    </label>
+                </div>
+            </div>
+            <div class="col l-7">
+                <div class="fomr">
+                    <InputText id="gia" class="form-control edit-fomr" placeholder="Giá"
+                               @bind-Value="Gia" />
+
+                    <ValidationMessage For="@(() => Gia)" />
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col l-2">
+                <div class="edit">
+                    <label for="Soluong" class="">
+                        Số Lượng
+                    </label>
+                </div>
+            </div>
+            <div class="col l-7">
+                <div class="fomr">
+                    <InputText id="Soluong" class="form-control edit-fomr" placeholder="Số Lượng"
+                               @bind-Value="SoLuong" />
+
+                    <ValidationMessage For="@(() => SoLuong)" />
                 </div>
             </div>
         </div>
@@ -105,10 +140,29 @@
                     </InputSelect>
                 </div>
             </div>
+
         </div>
+        <div class="row">
+            <div class="col l-2">
+                <div class="edit">
+                    <label for="hinh" class="">
+                        hình ảnh
+                    </label>
+                </div>
+            </div>
+            <div class="col l-7">
+                <div class="fomr">
+                    <InputText id="hinh" class="form-control edit-fomr" placeholder="Link hình ảnh"
+                               @bind-Value="Product.HinhSp" />
+                </div>
+            </div>
 
-
+        </div>
+        <div class="row">
+            <div class="col l-10">
+                <button class="btn btn-primary" type="submit"> Save </button>
+                <button class="btn btn-primary"  @onclick="Delete_Click"> delete </button>
+            </div>
+        </div>
     </div>
-    
-
 </EditForm>

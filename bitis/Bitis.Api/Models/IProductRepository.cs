@@ -10,7 +10,7 @@ namespace Bitis.Api.Models
         Task<Product> GetProduct(int idSp);
         Task<Product> AddProduct(Product product);
         Task<Product> UpdateProduct(Product product);
-        Task<Product> DeleteProduct(int idSp);
+        Task<Product> DeleteProduct(int id);
         Task<IEnumerable<Product>> Search(string name);
 
     }

@@ -21,10 +21,10 @@ namespace Bitis.Api.Models
             return await appDbContext.Products.ToListAsync();
         }
 
-        public async Task<Product> DeleteProduct(int idSp)
+        public async Task<Product> DeleteProduct(int id)
         {
             var result = await appDbContext.Products
-                .FirstOrDefaultAsync(e => e.IdSp == idSp);
+                .FirstOrDefaultAsync(e => e.IdSp == id);
             if (result != null)
             {
                 appDbContext.Products.Remove(result);
@@ -55,7 +55,7 @@ namespace Bitis.Api.Models
             if (result != null)
             {
                 result.MaSp = product.MaSp;
-                result.TenSp = product.MaSp;
+                result.TenSp = product.TenSp;
                 result.Gia = product.Gia;
                 result.SoLuong = product.SoLuong;
                 result.IdDanhMuc = product.IdDanhMuc;

@@ -72,19 +72,17 @@ namespace Bitis.Api.Controllers
             }
         }
 
-        [HttpPut("{id:int}")]
-        public async Task<ActionResult<Product>> UpdateProduct(int id, Product product)
+        [HttpPut()]
+        public async Task<ActionResult<Product>> UpdateProduct(Product product)
         {
             try
             {
-                if (id != product.IdSp)
-                    return BadRequest("Ma so ID khong khop");
+         
+                var productToUpdate = await productRepository.GetProduct(product.IdSp);
 
-                var employeeToUpdate = await productRepository.GetProduct(id);
-
-                if (employeeToUpdate == null)
+                if (productToUpdate == null)
                 {
-                    return NotFound($"Khong tim thay san pham voi Id = {id}");
+                    return NotFound($"Khong tim thay san pham voi Id = {product.IdSp}");
                 }
                 return await productRepository.UpdateProduct(product);
             }

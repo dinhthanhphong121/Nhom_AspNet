@@ -46,3 +46,27 @@ D:\Code test\bitis\bitis.mode\obj\Debug\net5.0\bitis.mode.csproj.CoreCompileInpu
 D:\Code test\bitis\bitis.mode\obj\Debug\net5.0\bitis.mode.dll
 D:\Code test\bitis\bitis.mode\obj\Debug\net5.0\ref\bitis.mode.dll
 D:\Code test\bitis\bitis.mode\obj\Debug\net5.0\bitis.mode.pdb
+D:\Code HT\bitis1.4\bitis.mode\bin\Debug\net5.0\bitis.mode.deps.json
+D:\Code HT\bitis1.4\bitis.mode\bin\Debug\net5.0\bitis.mode.dll
+D:\Code HT\bitis1.4\bitis.mode\bin\Debug\net5.0\ref\bitis.mode.dll
+D:\Code HT\bitis1.4\bitis.mode\bin\Debug\net5.0\bitis.mode.pdb
+D:\Code HT\bitis1.4\bitis.mode\obj\Debug\net5.0\bitis.mode.csproj.AssemblyReference.cache
+D:\Code HT\bitis1.4\bitis.mode\obj\Debug\net5.0\bitis.mode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code HT\bitis1.4\bitis.mode\obj\Debug\net5.0\bitis.mode.AssemblyInfoInputs.cache
+D:\Code HT\bitis1.4\bitis.mode\obj\Debug\net5.0\bitis.mode.AssemblyInfo.cs
+D:\Code HT\bitis1.4\bitis.mode\obj\Debug\net5.0\bitis.mode.csproj.CoreCompileInputs.cache
+D:\Code HT\bitis1.4\bitis.mode\obj\Debug\net5.0\bitis.mode.dll
+D:\Code HT\bitis1.4\bitis.mode\obj\Debug\net5.0\ref\bitis.mode.dll
+D:\Code HT\bitis1.4\bitis.mode\obj\Debug\net5.0\bitis.mode.pdb
+D:\Code HT New\bitis\bitis.mode\bin\Debug\net5.0\bitis.mode.deps.json
+D:\Code HT New\bitis\bitis.mode\bin\Debug\net5.0\bitis.mode.dll
+D:\Code HT New\bitis\bitis.mode\bin\Debug\net5.0\ref\bitis.mode.dll
+D:\Code HT New\bitis\bitis.mode\bin\Debug\net5.0\bitis.mode.pdb
+D:\Code HT New\bitis\bitis.mode\obj\Debug\net5.0\bitis.mode.csproj.AssemblyReference.cache
+D:\Code HT New\bitis\bitis.mode\obj\Debug\net5.0\bitis.mode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code HT New\bitis\bitis.mode\obj\Debug\net5.0\bitis.mode.AssemblyInfoInputs.cache
+D:\Code HT New\bitis\bitis.mode\obj\Debug\net5.0\bitis.mode.AssemblyInfo.cs
+D:\Code HT New\bitis\bitis.mode\obj\Debug\net5.0\bitis.mode.csproj.CoreCompileInputs.cache
+D:\Code HT New\bitis\bitis.mode\obj\Debug\net5.0\bitis.mode.dll
+D:\Code HT New\bitis\bitis.mode\obj\Debug\net5.0\ref\bitis.mode.dll
+D:\Code HT New\bitis\bitis.mode\obj\Debug\net5.0\bitis.mode.pdb
